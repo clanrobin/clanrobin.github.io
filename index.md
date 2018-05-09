@@ -1,7 +1,7 @@
 # Exploration of Online Examples.
 
 ## The Iris dataset: 
-### [dataset description](]http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+### [data and plots](]http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 So this dataset is used to show primarily how Support Vector Machines are good at finding and identifying sub-groups within a given dataset. In this example, based on the properties of three different types of Irises, SVM are able to find a robust way to determine which Iris is which.
 
 So scikit-learn tries to teach us something about SVM's here, so let's have a look at what is going on.
