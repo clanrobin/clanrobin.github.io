@@ -1,13 +1,13 @@
 # Exploration of Online Examples.
 
-## The Iris dataset: http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+## The Iris dataset: 
+### http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 So this dataset is used to show primarily how Support Vector Machines are good at finding and identifying sub-groups within a given dataset. In this example, based on the properties of three different types of Irises, SVM are able to find a robust way to determine which Iris is which.
 
 So scikit-learn tries to teach us something about SVM's here, so let's have a look at what is going on.
 
 
-
-
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -39,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--!>
