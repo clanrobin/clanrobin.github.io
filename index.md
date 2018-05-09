@@ -1,8 +1,12 @@
+# Exploration of Online Examples.
+
+## The Iris dataset: http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+So this dataset is used to show primarily how Support Vector Machines are good at finding and identifying sub-groups within a given dataset. In this example, based on the properties of three different types of Irises, SVM are able to find a robust way to determine which Iris is which.
+
+So scikit-learn tries to teach us something about SVM's here, so let's have a look at what is going on.
 
 
-You can use the [editor on GitHub](https://github.com/clanrobin/clanrobin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
