@@ -1,9 +1,9 @@
-# Exploration of Online Examples.
+# Scikit-learn
+[scikit-learn](scikit-learn.org)
 
 Let's start with the Scikit-learn routines, to be honest, I tried skimming ahead on these examples just so I could run some code but ended up, very quickly, having no idea what was going on. So let's try and pull all the pieces together.
 
-## Scikit-learn
-[scikit-learn](scikit-learn.org)
+
 
 ## The Iris dataset: 
 ### [data and plots](]http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
