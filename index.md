@@ -14,7 +14,9 @@ So this dataset is used to show primarily how Support Vector Machines are good a
 So scikit-learn tries to teach us something about SVM's here, so let's have a look at what is going on.
 
 To start with let's fiddle a bit with the plots which just present the data (see link in "data and plots").
-The first bit plots the physical parameters being measured, namely Sepal length and width in centimetres (as best as I can guess)
+The first bit plots the physical parameters being measured, namely Sepal and Petal length and width in centimetres (as best as I can guess). The Sepal, for those curious, is bascially the bud casing of the flower that folds back when the flower blooms and the petals appear.
+
+
 
 ## The digits dataset: 
 ### [data and examples](]http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#)
