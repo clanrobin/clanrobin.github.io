@@ -1,5 +1,5 @@
 # Welcome to Clan Robin
-
+![image](Images/clanrobin_logo.jpg)
 ## Scikit-learn
 [scikit-learn](scikit-learn.org)
 
