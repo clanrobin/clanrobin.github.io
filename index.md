@@ -1,6 +1,8 @@
 # Welcome to Clan Robin
 ![logo](/images/clanrobin_logo.jpg)
 ## Scikit-learn
+My page on Scikit-learn (/scikit.md)
+
 [scikit-learn](scikit-learn.org)
 
 Let's start with the Scikit-learn routines, to be honest, I tried skimming ahead on these examples just so I could run some code but ended up, very quickly, having no idea what was going on. So let's try and pull all the pieces together.
