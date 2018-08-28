@@ -7,6 +7,8 @@ My R code on [StatsCourse_Ch6](/docs/ch6.html)
 ## Scikit-learn
 My page on [Scikit-learn](/scikit-learn/scikit-learn.md)
 
+
+<!--
 [scikit-learn](scikit-learn.org)
 
 Let's start with the Scikit-learn routines, to be honest, I tried skimming ahead on these examples just so I could run some code but ended up, very quickly, having no idea what was going on. So let's try and pull all the pieces together.
@@ -39,7 +41,7 @@ From the first steps of the PCA analysis we can see that there is a plane which 
 ### [data and examples](]http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#)
 The other dataset is used to show how machine learning can help you classify something like handwritten numbers and identify which number you think it might be. 
 
-
+-->
 
 <!--
 ### Markdown
