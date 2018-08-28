@@ -5,8 +5,7 @@
 My R code on [StatsCourse_Ch6](/docs/ch6.html)
 
 ## Scikit-learn
-My page on [Scikit-learn](https://clanrobin.github.io/scikit-learn/scikit-learn.md) 
-https://github.com/clanrobin/scikit-learn/blob/master/scikit-learn.md
+My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
 <!--
 [scikit-learn](scikit-learn.org)
