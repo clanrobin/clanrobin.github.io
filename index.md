@@ -1,7 +1,11 @@
 # Welcome to Clan Robin
 ![logo](/images/clanrobin_logo.jpg)
+
+## Stanford Stats Course Homework
+My R code on [StatsCourse_Ch6](/docs/ch6.Rmd)
+
 ## Scikit-learn
-My page on Scikit-learn (/scikit.md)
+My page on [Scikit-learn](./scikit.md)
 
 [scikit-learn](scikit-learn.org)
 
