@@ -2,11 +2,10 @@
 ![logo](/images/clanrobin_logo.jpg)
 
 ## Stanford Stats Course Homework
-My R code on [StatsCourse_Ch6](/docs/ch6.html)
+My R code on [StatsCourse_Ch6](docs/ch6.html)
 
 ## Scikit-learn
-My page on [Scikit-learn](/scikit-learn/index.md)
-
+My page on [Scikit-learn](scikit-learn/index.md) 
 
 <!--
 [scikit-learn](scikit-learn.org)
