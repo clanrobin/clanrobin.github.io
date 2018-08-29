@@ -50,7 +50,7 @@ Chapter 10 covers: Principal Components, Higher Order Principal Components, k-me
 My R code on [StatsCourse_Ch10](/docs/ch10.html)
 
 ## Scikit-learn
-My page on [Scikit-learn](/scikit-learn/) 
+My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
 <!--
 [scikit-learn](scikit-learn.org)
