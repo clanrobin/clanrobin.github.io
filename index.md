@@ -2,11 +2,16 @@
 # Exploring Statistical Learning and Data Science
 Here you can find my different tinkerings with a variety of statistical learning packages, along with some of my own astronomical research.
 
--[Stanford Stats Course](#ssc_anchor)
--[Scikit-learn](#skl_anchor)
+- [Stanford Stats Course](#ssc-anchor)
+- [Scikit-learn](#skl_anchor)
 
 
-## Stanford Stats Course (#ssc_anchor)
+```[## Stanford Stats Course](#ssc-anchor)```
+[##Stanford Stats Course](##Stanford-Stats-Course)
+
+```[create an anchor](#anchors-in-markdown)```
+
+[Ready, set, GO!](#ready-set-go)
 Stanford University has a self-paced statistics course run by Prof Trevor Hastie and Prof Robert Tibshirani.
 The course covers a wide variety of statistical learning packages and shows how these tools can be implemented in R. I highly recommend it. To show my progress, I've added the R code that comes with the course with some of my own tweaks and my attempts at the questions at the end of each chapter. I can't guarantee that my approach is 100% correct and it most likely isn't the most efficient code but the point here is to demonstrate working with R to try to solve problems.
 
