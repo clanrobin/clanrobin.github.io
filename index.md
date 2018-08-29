@@ -6,7 +6,7 @@ Here you can find my different tinkerings with a variety of statistical learning
 Stanford University has a self-paced statistics course run by Prof Trevor Hastie and Prof Robert Tibshirani.
 The course covers a wide variety of statistical learning packages and shows how these tools can be implemented in R. I highly recommend it. To show my progress, I've added the R code that comes with the course with some of my own tweaks and my attempts at the questions at the end of each chapter. I can't guarantee that my approach is 100% correct and it most likely isn't the most efficient code but the point here is to demonstrate working with R to try to solve problems.
 
-For each chapter, I've included the R code and my attempts at the questions. For the early chapters I've converted the original .R code to .Rmd for ease of viewing.
+For each chapter, I've listed an overview of what was covered and a link to the R code to demonstrate some of those topics. For the early chapters I've converted the original .R code to .Rmd for ease of viewing.
 
 ### Overview of Statistical Learning
 Chapter 2 of the course, covering Regression Models, Dimensionality and Structured Models, Model Selection and Bias-Variance Tradeoff, Classification, and an introduction to R.
