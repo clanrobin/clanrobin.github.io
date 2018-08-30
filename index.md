@@ -10,12 +10,16 @@ Here you can find my different tinkerings with a variety of statistical learning
 Stanford University has a self-paced statistics course run by Prof Trevor Hastie and Prof Robert Tibshirani.
 The course covers: Overview of Statistical Learning, Linear Regression, Classification, Resampling Methods, Linear Model Selection and Regularization, Moving Beyond Linearity, Tree-Based Methods, Support Vector Machinesand  Unsupervised Learning.
 
+My page on the [Stanford Stats Course](/statscourse/statscourse.md)
+
 ## Scikit-learn
 Here I explore the Iris dataset with Principal Component Analysis in Python.
+
 My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
 ## Astro Research
 Here I use k-Nearest Neighbours to make a 2D photometric completeness map of an astronomical field, using Python and TOPCAT.
+
 My page on using some data analysis techniques in [Astronomy](/astro/astro.md)
 
 <!--
