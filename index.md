@@ -18,7 +18,7 @@ Here I explore the Iris dataset with Principal Component Analysis in Python.
 My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
 ## Astro Research
-Here I use k-Nearest Neighbours to make a 2D photometric completeness map of an astronomical field, using Python and TOPCAT.
+Here I use [k-Nearest Neighbours](/astro/kNN_example.html) to make a 2D photometric completeness map of an astronomical field, using Python and TOPCAT.
 
 My page on using some data analysis techniques in [Astronomy](/astro/astro.md)
 
