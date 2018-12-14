@@ -1,7 +1,7 @@
 ## Scikit-learn
 [Homepage of scikit-learn](scikit-learn.org)
 
-Let's start with the Scikit-learn routines, to be honest, I tried skimming ahead on these examples just so I could run some code but ended up, very quickly, having no idea what was going on. So let's try and pull all the pieces together.
+Let's start with the Scikit-learn routines, first up is the famous Iris Dataset and implementing a Principal Component Analysis to investigate the data. So let's try and pull all the pieces together.
 
 
 
