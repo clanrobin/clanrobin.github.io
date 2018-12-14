@@ -22,7 +22,11 @@ Here I use [k-Nearest Neighbours](/astro/kNN_example.html) to make a 2D photomet
 
 [Matched Filter analysis](/MatchedFilter/MatchedFilter.md) of the Palomar 5 stellar stream. This analysis was done by Deeksha Beniwal when she was my student at Gemini South Observatory.
 
-My page on using some data analysis techniques in [Astronomy](/astro/astro.md)
+[Gallery](/Gallery/Gallery.md) documents some of data visualization projects I have done over the years. These include multi-component fitting, building composite data products by slicing and processing data, website structure visualization.
+
+A blog post on [Comet 67P Observations](http://www.gemini.edu/blog/blog/2015/08/13/gemini-spots-rosetta-on-its-way-back-to-the-sun/) that I helped obtain observations for.
+
+<!--My page on using some data analysis techniques in [Astronomy](/astro/astro.md) -->
 
 <!--
 ### Markdown
