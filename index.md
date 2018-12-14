@@ -13,7 +13,8 @@ The course covers: Overview of Statistical Learning, Linear Regression, Classifi
 My page on the [Stanford Stats Course](/statscourse/statscourse.md)
 
 ## Scikit-learn
-Here I explore the Iris dataset with Principal Component Analysis in Python.
+Here I do some basic exploration of the Iris dataset with Principal Component Analysis in Python.
+I went into a lot more depth on PCA in the Stats Course, link above.
 
 My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
