@@ -20,6 +20,8 @@ My page on [Scikit-learn](/scikit-learn/scikit-learn.md)
 ## Astro Research
 Here I use [k-Nearest Neighbours](/astro/kNN_example.html) to make a 2D photometric completeness map of an astronomical field, using Python and TOPCAT.
 
+[Matched Filter analysis](/MatchedFilter/MatchedFilter.md) of the Palomar 5 stellar stream. This analysis was done by Deeksha Beniwal when she was my student at Gemini South Observatory.
+
 My page on using some data analysis techniques in [Astronomy](/astro/astro.md)
 
 <!--
