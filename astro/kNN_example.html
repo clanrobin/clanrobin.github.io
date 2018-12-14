@@ -11978,7 +11978,7 @@ You might also like to note the somewhat annoying <em>reshaping</em> of the arra
 <p>Instead of faffing with matplotlib and meshgridding half a million points, I'm going to jump to another tool. Here I've taken the output text file with the results and loaded them into the Java package TopCat for plotting.
 TopCat is a very handy tool for quickly appraising astronomical data and doing preliminary data analysis, cross-matching, conversions and much more.</p>
 <p>In our case, we want it to make a nice plot where we use the 50% level (g50 or r50) as an auxilliary axis to colour code the data. While we could just plot it as points, it will look much nicer if we use the "density form" and bin the data a little to ensure there are no gaps in the plotting. Each of these new pixels is the <strong>median</strong> of the points that fall in that bin. To avoid outliers from washing out any substructure, we limit the range to $\pm$ 1.5 mags of the expected value.</p>
-<p>What is then revealed is a map of how the photometric completeness varies across the field. </p>
+<p>What is then revealed is a map of how the photometric completeness varies across the field. I've also overplotted the location of the brightest stars in the field as black dots for reference.</p>
 <img src="2D_Photometric_CompletenessMap_rband_with_rlt22_stars.png" alt="2D Photometric Completeness Map with (r < 22) stars">
 </div>
 </div>
