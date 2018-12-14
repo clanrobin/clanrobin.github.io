@@ -28,11 +28,16 @@ Spectroscopic observations split the light from the object (star/galaxy/nebula e
 
 {Full Disclaimer: this is work done by Rhiannon Gardner who was the student of myself and Dr Djazia Ladjal at Gemini South Observatory.}
 
-A typical spectra looks like this and 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+A typical spectra looks like this and a lot of work is done to remove the background continuum and then isolate the lines. The blue line is the corrected spectrum and the red line shows where the continuum was and to fit that the emission lines needed to masked out to avoid skewing the fit.
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+![Spectra](https://clanrobin.github.io/Gallery/SpectraProcessing.png)
 
+Once the spectra is processed, the lines need to identified, and in this figure you can see the lines isolated after a multi-gaussian fitting algorithm has been applied and some of the lines have been named.
+
+![Finding the emission lines](https://clanrobin.github.io/Gallery/SpectraAnalysis.png)
+
+Putting all this together, we can take all the spectra, select the line of interest and then reconstruct the image.
+In the following image, every pixel in the x-direction represents a single observation 
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
 
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
