@@ -16,7 +16,17 @@ The Milky Way runs across the x-axis and is excised from the figure, so as not t
 
 ![Aitoff Projection of Milky Way Stellar Densities](https://clanrobin.github.io/Gallery/ACS_EBS_nowf_distplots.png)
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+##Leveraging Data from Multiple Sources
+
+In this example, we show the data from our survey of the Magellanic Bridge, this is the region between our two nearest companion dwarf galaxies (The Large and Small Magellanic Clouds). We are interested in studying how gas in this region relates to the stars that we detected in our survey. So the background contours are from a Radio survey taken to study the gas, where we have sliced that dataset to the gas velocity we require. Then we have overplotted both the footprint of the observations we took (in green) and a subset from that which represents the youngest stars in our data. In this manner, we can directly relate the location of the young stars with respect to the underlying gas from which they might have been born. All of this is plotted on an accurate scale.
+
+![Young Stars in the Magellanic Bridge](https://clanrobin.github.io/Gallery/MAGIC1_2_YMS_SMC_MB_gasmaps.png)
+
+##Building Images from Spectra
+
+Spectroscopic observations split the light from the object (star/galaxy/nebula etc) so that we can see at which wavelengths this object predominantly absorbs or emits light. This then gives us information as to what sort of elements or molecules might be present in the system and their abundances. Different elements can also be used as diagnostic tools, for instance, determining the temperature of the object. So typically we do not create images from this sort of data, however, if you plan your observations carefully, it is possible to reconstruct the object by slicing and compiling the spectra to rebuild the image. This is similar to how the Milky Way image in the first figure was made by slicing the stellar density array at the distances of interest. In this case, we will be slicing the spectra at certain wavelengths to reveal structure.
+
+
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
 
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
