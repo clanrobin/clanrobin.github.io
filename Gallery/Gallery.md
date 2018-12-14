@@ -26,7 +26,9 @@ In this example, we show the data from our survey of the Magellanic Bridge, this
 
 Spectroscopic observations split the light from the object (star/galaxy/nebula etc) so that we can see at which wavelengths this object predominantly absorbs or emits light. This then gives us information as to what sort of elements or molecules might be present in the system and their abundances. Different elements can also be used as diagnostic tools, for instance, determining the temperature of the object. So typically we do not create images from this sort of data, however, if you plan your observations carefully, it is possible to reconstruct the object by slicing and compiling the spectra to rebuild the image. This is similar to how the Milky Way image in the first figure was made by slicing the stellar density array at the distances of interest. In this case, we will be slicing the spectra at certain wavelengths to reveal structure.
 
+{Full Disclaimer: this is work done by Rhiannon Gardner who was the student of myself and Dr Djazia Ladjal at Gemini South Observatory.}
 
+A typical spectra looks like this and 
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
 
 ![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
