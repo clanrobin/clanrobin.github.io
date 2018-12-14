@@ -49,18 +49,34 @@ Once the spectra is processed, the lines need to identified, and in this figure 
 Putting all this together, we can take all the spectra, select the line of interest and then reconstruct the image.
 In the following image, every pixel in the x-direction represents a single observation as discussed about and every pixel in the y-direction was a spectra which was processed to remove the background, fit the lines, identify them, measure their intensity and then select them for plotting. There are about 90000 spectra analyzed to produce this image. Here you can see the data at different wavelengths to highlight how the structure changes depending on the line being used.
 
-![Step 1](https://clanrobin.github.io/Gallery/PNe_atdiffwavelengths.png)
+![Emission line Maps](https://clanrobin.github.io/Gallery/PNe_atdiffwavelengths.png)
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+## Spectral Mapping using Integral Field Units
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+Similar to the method described above, we used a similar technique of converting spectra to an image in a study of this collisional ring galaxy. Keep in mind that each pixel in the reconstructed image is actually data derived from a spectrum taken at that location. 
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+So firstly, I present a typical spectra for this object. Here the x-axis is wavelength and you can see how some pixels show emission lines (where the line spikes up) and absorption lines (where the line spikes down). This is telling us about the material present at that location.
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+![Galaxy Spectra](https://clanrobin.github.io/Gallery/Example_spectra_v4.png)
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+Now let's look at an "image" of the galaxy if we slice the spectra as if we were taking an image. Here we can see the galaxy clearly in the centre with a strong bright bulge in the centre and disk of material around the side. The foreground stars are the bright circles scattered across the field and the colours vary because the temperature of the stars are different from each other.
 
-![Step 1](https://clanrobin.github.io/Gallery/Presentation_JustPal5_BCC.001.png)
+![Spectral Filter](https://clanrobin.github.io/Gallery/AM1354-250_RGB_ds9_cropped.png)
+
+This sort of data is very rich, here we show, like with the Planetary Nebula images in the previous example how selecting a particular line can reveal different structure in the object.
+
+![Line Map](https://clanrobin.github.io/Gallery/LineMaps.png)
+
+Additionally, since this whole system is moving we can actually create velocity maps too.
+
+![Velocity Map](https://clanrobin.github.io/Gallery/VelocityMaps.png)
+
+## Visualizing a Website
+
+Now for something quite different here is map of a website I made using NodeBox. Each node in this map represents a directory and lines connecting them point to their sub-directories down to the depth you wish to probe.
+
+![Website Map](https://clanrobin.github.io/Gallery/MappingAWebsite.png)
+
+![Website Map Zoom](https://clanrobin.github.io/Gallery/MappingAWebsite_Zoom.png)
 
 
