@@ -19,7 +19,7 @@ I went into a lot more depth on PCA in the Stats Course, link above.
 My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 
 ## Astro Research
-Latest research project implementing a [clustering](/Clustering/Pygmmis_Test.md) algorithm (pygmmis) to recover clusters within a field that includes noise and cropped distributions. 
+Latest research project implementing a [clustering](/Clustering/Pyggmis_Test.md) algorithm (pygmmis) to recover clusters within a field that includes noise and cropped distributions. 
 
 Here I use [k-Nearest Neighbours](/astro/kNN_example.html) to make a 2D photometric completeness map of an astronomical field, using Python and TOPCAT.
 
