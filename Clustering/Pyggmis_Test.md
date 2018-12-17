@@ -255,7 +255,9 @@ Firstly, we will make a triangle plot to show the **best** result for each clust
 Secondly, we will present the Bayes Information Criterion figure (ISLR_BIC), but we need to collate the results, so for each cluster set we plot the **median** BIC and the **standard deviation** around that point. Sometimes it's good to have a few other tricks up your sleeve, so there is also a way to plot the **Median Absolute Deviation** instead.
 I've also tried to foolproof this by making sure than any NaNs don't trip us up.
 
-Finally, since the mean and std deviation sometimes obscure what is really happening with the data, we'll add a violin plot so we can keep an eye on how the results are distributed.
+Thirdly, we will also plot the **true** distribution of points with the background for comparison.
+
+Finally, since the mean and std deviation sometimes obscure what is really happening with the data, we'll add a violin plot so we can keep an eye on how the results are distributed within each cluster set.
 
 
 
