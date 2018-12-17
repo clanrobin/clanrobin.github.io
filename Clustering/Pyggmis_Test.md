@@ -9,6 +9,8 @@ In this example, we're not using the typical sklearn GMM package because our pro
 
 The top of the code imports all the relevant packages and then we'll define some functions.
 
+**an example plot is at the end of the page**
+
 
 ```python
 import warnings
@@ -398,3 +400,6 @@ for pp in range(instances):
 bdf.to_csv(filepath + 'bdf.csv')
 
 ```
+
+## Example Figure
+![]()
