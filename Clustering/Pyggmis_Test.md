@@ -402,4 +402,4 @@ bdf.to_csv(filepath + 'bdf.csv')
 ```
 
 ## Example Figure
-![]()
+![Clustering Figure](https://clanrobin.github.io/Clustering/SMS_pygmmisTest_SmallBlobsExample.png)
