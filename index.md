@@ -5,18 +5,10 @@ Here you can find my different tinkerings with a variety of statistical learning
 - [Stanford Stats Course](#stanford-stats-course)
 - [Scikit-learn](#scikit-learn)
 - [Astro Research](#astro-research)
+- [2011 NSW Census](#census2011)
 
-## Stanford Stats Course
-Stanford University has a self-paced statistics course run by Prof Trevor Hastie and Prof Robert Tibshirani.
-The course covers: Overview of Statistical Learning, Linear Regression, Classification, Resampling Methods, Linear Model Selection and Regularization, Moving Beyond Linearity, Tree-Based Methods, Support Vector Machinesand  Unsupervised Learning.
-
-My page on the [Stanford Stats Course](/statscourse/statscourse.md)
-
-## Scikit-learn
-Here I do some basic exploration of the Iris dataset with Principal Component Analysis in Python.
-I went into a lot more depth on PCA in the Stats Course, link above.
-
-My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
+## Census 2011: NSW Electorates, Education, Income and Gender study
+Here I explore [Census data](/2011Census/2011Census_NSW_Income_and_Education.md) obtained from the Australian Bureau of Statistics. The data highlights how education and income levels are correlated, how gender and income manifest across the state and which electorates are performing the best and which are the most equal.
 
 ## Astro Research
 Latest research project implementing a [clustering](/Clustering/Pyggmis_Test.md) algorithm (pygmmis) to recover clusters within a field that includes noise and cropped distributions. 
@@ -29,6 +21,17 @@ Here I use [k-Nearest Neighbours](/astro/kNN_example.html) to make a 2D photomet
 
 A blog post on [Comet 67P Observations](http://www.gemini.edu/blog/blog/2015/08/13/gemini-spots-rosetta-on-its-way-back-to-the-sun/) that I helped obtain observations for.
 
+## Stanford Stats Course
+Stanford University has a self-paced statistics course run by Prof Trevor Hastie and Prof Robert Tibshirani.
+The course covers: Overview of Statistical Learning, Linear Regression, Classification, Resampling Methods, Linear Model Selection and Regularization, Moving Beyond Linearity, Tree-Based Methods, Support Vector Machinesand  Unsupervised Learning.
+
+My page on the [Stanford Stats Course](/statscourse/statscourse.md)
+
+## Scikit-learn
+Here I do some basic exploration of the Iris dataset with Principal Component Analysis in Python.
+I went into a lot more depth on PCA in the Stats Course, link above.
+
+My page on [Scikit-learn](/scikit-learn/scikit-learn.md) 
 <!--My page on using some data analysis techniques in [Astronomy](/astro/astro.md) -->
 
 <!--
